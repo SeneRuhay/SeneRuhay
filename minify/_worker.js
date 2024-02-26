@@ -26,7 +26,7 @@ clash-meta
   sni: ${t}
   client-fingerprint: chrome
   ws-opts:
-    path: ""
+    path: "/vless-ws"
     headers:
       host: ${t}
 ---------------------------------------------------------------
